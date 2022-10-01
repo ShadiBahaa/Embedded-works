@@ -1,9 +1,3 @@
-/*
- * main.c
- *
- *  Created on: Sep 20, 2022
- *      Author: vip
- */
 #include "STD_TYPES.h"
 #include "BIT_MATH.h"
 #include <avr/io.h>
