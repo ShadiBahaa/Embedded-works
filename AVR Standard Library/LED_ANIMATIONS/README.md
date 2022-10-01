@@ -1,5 +1,5 @@
 #LED Animations
-##Different LED animations applied with AVR microcontroller, LEDs and DIP switches:
+## Different LED animations applied with AVR microcontroller, LEDs and DIP switches:
 | DIP number (sorted according to the switch case)   | LED Action                                                                  |
 | ---------------------------------------------------|----------------------------------------------------------------------------:|
 | 1                                                  |Flashing every 500 ms                                                        |
